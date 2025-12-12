@@ -5,6 +5,7 @@
 #![allow(clippy::missing_safety_doc)]
 #![allow(clippy::pedantic)] // For anyone using pedantic and a source dep, this is needed
 #![allow(clippy::all)]
+#![allow(warnings)]
 
 use core::fmt::Debug;
 use core::hash::Hash;
